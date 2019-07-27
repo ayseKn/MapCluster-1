@@ -97,16 +97,3 @@ For a more comprehensive example, see src/test/java/org/vaadin/template/demo/Dem
 ### Feature A
 
 <...>
-
-### Feature B
-
-<...>
-
-### Feature C
-
-<...>
-
-## API
-
-MapCluster JavaDoc is available online at <...>
-"# MapCluster" 
