@@ -90,7 +90,7 @@ Here is a simple example on how to try out the add-on component:
 
 Run class ClusterUI on server
 
-For a more comprehensive example, see src/test/java/org/vaadin/template/demo/DemoUI.java
+For a more comprehensive example, see src/test/java/org/vaadin/template/demo/ClusterUI.java
 
 ## Features
 
