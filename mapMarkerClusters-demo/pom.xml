@@ -21,24 +21,22 @@
 		<jetty.plugin.version>9.3.9.v20160517</jetty.plugin.version>
 	</properties>
 
-    <!--
 	<organization>
-		<name>My Name</name>
-		<url>https://github.com/mygithubaccount/MapCluster/</url>
+		<name>Ayse Karaman</name>
+		<url>https://github.com/AyseA/MapCluster/</url>
 	</organization>
 
 	<scm>
-		<url>git://github.com/mygithubaccount/MapCluster.git</url>
-		<connection>scm:git:git://github.com/mygithubaccount/MapCluster.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com:/mygithubaccount/${componentClassName}.git</developerConnection>
+		<url>git://github.com/AyseA/MapCluster.git</url>
+		<connection>scm:git:git://github.com/AyseA/MapCluster.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:/AyseA/${componentClassName}.git</developerConnection>
 		<tag>MapCluster add-on for Vaadin</tag>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/mygithubaccount/MapCluster/issues</url>
+		<url>https://github.com/AyseA/MapCluster/issues</url>
 	</issueManagement>
-    -->
 
 	<licenses>
 		<license>
