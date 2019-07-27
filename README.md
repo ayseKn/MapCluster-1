@@ -1,4 +1,4 @@
-# MyComponent Add-on for Vaadin 8
+# MapCluster Add-on for Vaadin 8
 
 ${ComponentClassName} is a UI component add-on for Vaadin 8.
 
@@ -12,12 +12,12 @@ Official releases of this add-on are available at Vaadin Directory. For Maven in
 
 ## Building and running demo
 
-git clone <url of the MyComponent repository>
+git clone <url of the MapCluster repository>
 mvn clean install
 cd demo
 mvn jetty:run
 
-To see the demo, navigate to http://localhost:8080/
+To see the demo, navigate to http://localhost:8080/mapMarkerClusters-demo/
 
 ## Development with Eclipse IDE
 
@@ -79,7 +79,7 @@ Contributions are welcome, but there are no guarantees that they are accepted as
 
 Add-on is distributed under Apache License 2.0. For license terms, see LICENSE.txt.
 
-MyComponent is written by <...>
+MapCluster is written by <...>
 
 # Developer Guide
 
@@ -107,5 +107,5 @@ For a more comprehensive example, see src/test/java/org/vaadin/template/demo/Dem
 
 ## API
 
-MyComponent JavaDoc is available online at <...>
+MapCluster JavaDoc is available online at <...>
 "# MapCluster" 
