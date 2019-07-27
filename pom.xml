@@ -5,7 +5,7 @@
 	<groupId>com.ak</groupId>
 	<artifactId>mapMarkerClusters-root</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>MapCluster Add-on Root Project</name>
 
 	<prerequisites>

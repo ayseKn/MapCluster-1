@@ -5,7 +5,7 @@
 	<groupId>com.ak</groupId>
 	<artifactId>mapMarkerClusters</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>MapCluster Add-on</name>
 
 	<prerequisites>
