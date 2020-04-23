@@ -9,7 +9,7 @@ Try the add-on demo at <url of the online demo>
 
 ## Download release
 
-Official releases of this add-on are available at Vaadin Directory. For Maven instructions, download and reviews, go to https://vaadin.com/addon/mapMarkerClusters
+Official releases of this add-on are available at Vaadin Directory. For Maven instructions, download and reviews, go to https://vaadin.com/directory/component/mapcluster-add-on
 
 ## Building and running demo
 
