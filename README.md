@@ -1,11 +1,11 @@
 # MapCluster Add-on for Vaadin 8
 
 MapCluster is a UI component add-on for Vaadin 8. It generates clusters of geographic locations on 
-https://vaadin.com/directory/component/v-leaflet map and puts each cluster on a marker. The clusters are apart from one another at least 10% of the map size. The percentage is configurable. Other distance metrics can be coded -- see `ClusterUtils.computeClusterDistanceLimit()` and its caller. Re-adjusts clusters as the map is moved or zoomed in/out. 
+https://vaadin.com/directory/component/v-leaflet map and puts each cluster on a marker. Re-adjusts clusters as the map is moved or zoomed in/out. The clusters are apart from one another 10%+ of the map size. This percentage is configurable. Other distance metrics can be coded-- see `ClusterUtils.computeClusterDistanceLimit()`. 
 
 ## Online demo
 
-Try the add-on demo at <url of the online demo>
+Whenever the site is on - http://104.198.48.34/
 
 ## Download release
 
