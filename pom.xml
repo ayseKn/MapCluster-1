@@ -7,7 +7,7 @@
 	<packaging>pom</packaging>
 	<version>1.0.0</version>
 	<name>MapCluster Add-on Root Project</name>
-
+<!-- * -->
 	<prerequisites>
 		<maven>3</maven>
 	</prerequisites>
